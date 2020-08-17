@@ -1,0 +1,3 @@
+The search bar is one of the main system functions. It helps to get you where you need to go, without all of the additional steps. 
+This can be especially useful if you don't know where to find what you have typed into the search bar to find. 
+For example, if you need a specific program, you can type it into the search bar to locate.
