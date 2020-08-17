@@ -5,3 +5,8 @@ For example, if you need a specific program, you can type it into the search bar
 The task bar is an easy way to find your "favorite" items, such as email, internet, music, etc. 
 Rather than searching for your program, it will be readily available to you without a serach.
 This is an especially easy way to find the programs you use the most often.
+
+The start button.
+You can find virtually anything through the start button on your Windows Operating System.
+Not only is this function used to pull up any of your programs, it is also used for restarting and turning off the computer.
+Anything you will need to run can found by clicking the Window and typing what you need, for example "Word".
